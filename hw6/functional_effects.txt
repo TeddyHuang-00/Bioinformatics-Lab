@@ -1,0 +1,6 @@
+  14632 nonsynonymous
+  12641 synonymous
+    520 stopgain
+    239 unknown
+     34 startloss
+     24 stoploss

@@ -1,0 +1,7 @@
+   8519 CDS
+  17880 exon
+    875 gene
+    923 start_codon
+    897 stop_codon
+   3021 transcript
+   3280 UTR
